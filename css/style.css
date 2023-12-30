@@ -157,8 +157,10 @@ div.joshua-passport{
 }
 
 .joshua-passport img{
-   border: 5px solid #000;
+   border: 5px solid #304d30;
    width: 300px;
+   padding: 10px;
+   border-radius: 50px;
 }
 
 div.about-me{
