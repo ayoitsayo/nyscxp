@@ -229,3 +229,7 @@ footer{
    font-family: Arial;
    text-align: center;
 }
+
+footer a{
+   color: #b6c4b6;
+}
